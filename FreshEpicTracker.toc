@@ -1,0 +1,7 @@
+## Interface: 120000
+## Title: Fresh Epic Tracker
+## Notes: Tracks and predicts fresh Epic Battleground spawn windows. v2.0
+## Author: You
+## Version: 2.0
+
+FreshEpicTracker.lua
